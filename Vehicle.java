@@ -7,5 +7,9 @@ public class Vehicle {
 		e.start();
 		e.stop();
 		System.out.println("Hello");
+		
+		HydrogenEngine he = new HydrogenEngine();
+		he.start();
+		he.stop();
 	}
 }
