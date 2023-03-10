@@ -8,7 +8,7 @@ public class DieselEngine {
 	}
 	
 	public void addingFuel() {
-		System.out.println("Diesel engine generating power");
+		System.out.println("Diesel engine adding fuel");
 
 	}
 }
